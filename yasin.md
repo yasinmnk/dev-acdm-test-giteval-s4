@@ -20,7 +20,22 @@ print("Hello, World!")
 ```
 
 
+```javascript
+function myfunction(name) {
+    console.log("Hello, " + name + "!");
+}
+
+myfunction("World");
+```
+
+
 [sourcelink](https://www.pcg.io)
+
+## tasks distrubution
+
+| task1 | task2 | task3 |
+|----------|----------|----------|
+| person1 | person2 | person3|          
 
 
 
