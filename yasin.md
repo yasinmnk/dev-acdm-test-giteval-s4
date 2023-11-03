@@ -15,6 +15,7 @@
   - Subtask A
   - Subtask B
 ```
+python
 def hello_world():
 print("Hello, World!")
 ```
