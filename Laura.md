@@ -55,3 +55,9 @@ Some examples of markdown
 
 ### This is a link
 Here is the homepage from PCG: [PCG](https://pcg.io/de/)
+
+---
+
+### And here is a picture
+
+Picture of Sweden: ![Sweden is wonderfull!]()
