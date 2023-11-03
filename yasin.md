@@ -14,8 +14,7 @@
 - task 2
   - Subtask A
   - Subtask B
-```
-python
+```python
 def hello_world():
 print("Hello, World!")
 ```
@@ -41,11 +40,7 @@ myfunction("World");
 
 
 
-> the project deadline on 02.11.23 <
+> the project deadline on 02.11.23 
 
 
 
-
-
-
-```
